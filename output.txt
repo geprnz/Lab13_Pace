@@ -1,0 +1,50 @@
+INTEGERS:
+Swap items at positions 10 and 200
+	This value is invalid: 200
+Swap items at positions -10 and 15
+	This value is invalid: -10
+Swap items at positions 10 and 20
+	Before: 78 & 81
+	After: 81 & 78
+Swap items at positions 6 and 7
+	Before: 59 & 10
+	After: 10 & 59
+The minimum value is: 2
+The maximum value is: 102
+The value 1 could not be found in the list.
+The value 3 is found at position 100 in the list.
+
+DOUBLES:
+Swap items at positions 10 and 200
+	This value is invalid: 200
+Swap items at positions -10 and 15
+	This value is invalid: -10
+Swap items at positions 10 and 20
+	Before: 7.69861 & 7.21923
+	After: 7.21923 & 7.69861
+Swap items at positions 6 and 7
+	Before: 1.23532 & 6.49301
+	After: 6.49301 & 1.23532
+The minimum value is: 0.00569
+The maximum value is: 9.9935
+The value 3.95805 is found at position 12 in the list.
+The value 4.62557 is found at position 19 in the list.
+The value 1.23456 could not be found in the list.
+
+
+STRINGS:
+Swap items at positions 10 and 200
+	This value is invalid: 200
+Swap items at positions -10 and 15
+	This value is invalid: -10
+Swap items at positions 10 and 20
+	Before: Album & Vacuum
+	After: Vacuum & Album
+Swap items at positions 6 and 7
+	Before: Train & Meat
+	After: Meat & Train
+The minimum value is: Airport
+The maximum value is: X-ray
+The value Satellite is found at position 95 in the list.
+The value Pumpkin could not be found in the list.
+
